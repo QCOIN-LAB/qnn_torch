@@ -14,13 +14,16 @@ This repository is supported by [Benyou Wang](https://wabyking.github.io/old), [
 
 ## Implemented Models
 
-- QDNN
-- LocalMixtureNN
-- MLLM
+- QDNN (Global Mixture)
+- LocalMixtureNN (Local Mixture)
+- MLLM 
 - SentiQDNN
 - FastText
 - CNN
 - LSTM
+## Data
+- Download the data at https://www.dropbox.com/s/zpu2wx5bq54agk8/data.zip?dl=0.
+- Put the downloaded data folder in the root directory.
 
 ## Usage
 
